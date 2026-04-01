@@ -1,0 +1,6 @@
+{
+  "name": "playwright-remote-view",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module"
+}
